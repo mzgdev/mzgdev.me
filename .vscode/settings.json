@@ -1,0 +1,10 @@
+{
+    "tailwindCSS.files.exclude": [
+        "**/.git/**",
+        "**/node_modules/**",
+        "**/.hg/**",
+        "**/.svn/**",
+        "**/nuxt/tailwind.config.cjs"
+    ],
+    "tailwindCSS.experimental.configFile": "tailwind.config.ts"
+}

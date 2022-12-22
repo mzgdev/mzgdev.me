@@ -14,7 +14,7 @@
     "@nuxtjs/html-validator": "^1.0.0",
     "@nuxtjs/robots": "^2.5.0",
     "@nuxtjs/sitemap": "^2.4.0",
-    "@nuxtjs/tailwindcss": "^5.3.3",
+    "@nuxtjs/tailwindcss": "^6.2.0",
     "@nuxtjs/web-vitals": "^0.1.10",
     "daisyui": "^2.31.0",
     "eslint": "^8.24.0",
